@@ -1,6 +1,6 @@
 Projeto modelo utilizando Spring boot com JPA
 
-## Observação: O conteúdo README baixo é o do professor, não fiz o código apenas aprendi os conseitos básicos do Swagger e mantive o código do professor intacto.
+## Observação: O conteúdo README baixo é o do professor, não fiz o código apenas aprendi os conseitos básicos do Swagger e mantive o código do professor intacto. </br>
 ## Preciso avançar no curso e aprender sobre o Docker e implantar o código em ouro serviço Cloud. Após isso, trabalharei na melhoria deste código e adicionarei meu README com a configuração correta.
 
 Trambém preciso implementar a lógica de somar os preços das pizzas na saída, no 'price' 'request'.
