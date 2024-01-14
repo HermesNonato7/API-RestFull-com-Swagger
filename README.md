@@ -1,10 +1,11 @@
 Projeto modelo utilizando Spring boot com JPA
 
-## Observação: O conteúdo README baixo é o do professor, não fiz o código apenas aprendi os conseitos básicos do Swagger e mantive o código do professor intacto. </br>
-## Preciso avançar no curso e aprender sobre o Docker e implantar o código em ouro serviço Cloud. Após isso, trabalharei na melhoria deste código e adicionarei meu README com a configuração correta.
+## Observação: O conteúdo README abaixo é o do professor, não fiz o código, apenas aprendi os conseitos do Swagger e mantive o código do professor intacto. <br/>
+## Preciso avançar no curso e aprender sobre o Docker e como implantar o código em outro serviço Cloud, pois o Heroku não é mais grátis. Em paralelo estou aprendendo como utilizar os serviços da AWS.
+## Após isso, trabalharei na melhoria deste código e adicionarei meu README com a minha configuração, a correta.
 
-Trambém preciso implementar a lógica de somar os preços das pizzas na saída, no 'price' 'request'.
-Farei isso após as aulas do Docker e após aprender sobre a nuvem da AWS.
+Trambém preciso implementar a lógica de somar os preços das pizzas na saída, no 'price' , 'request', o professor não o fez e deixou como lição de casa kkkkk, mas eu faço.
+
 Atualizarei as dependências também.
 
 Grato.
