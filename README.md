@@ -1,20 +1,10 @@
-Projeto modelo utilizando Spring boot com JPA
-
-## Observação: O conteúdo README abaixo é o do professor, não fiz o código, apenas aprendi os conseitos do Swagger e mantive o código do professor intacto. <br/>
-## Preciso avançar no curso e aprender sobre o Docker e como implantar o código em outro serviço Cloud, pois o Heroku não é mais grátis. Em paralelo estou aprendendo como utilizar os serviços da AWS.
-## Após isso, trabalharei na melhoria deste código e adicionarei meu README com a minha configuração, a correta.
-
-Trambém preciso implementar a lógica de somar os preços das pizzas na saída, no 'price' , 'request', o professor não o fez e deixou como lição de casa kkkkk, mas eu faço.
-
-Atualizarei as dependências também.
-
-Grato.
-
-### Abaixo README modelo da aula do professor:
+# API RestFull com JPA, H2, PostgreSQL, Swagger, consome uma API pública
 
 É utilizado os bancos H2 para testes e PostgreSQL para produção com deploy automático no Heroku pelo GitHub
 
 https://meuapp-spring.herokuapp.com/
+
+## Observaçao: O Heroku foi descontinuado para contas Free, etão repcisarei migrar o código para o AWS.
 
 O projeto contém o arquivo SpringcomJPA.postman_collection.json para ser importado no Postman já apontando para o Heroku.
 
